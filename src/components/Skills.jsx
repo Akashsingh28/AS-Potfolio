@@ -1,11 +1,11 @@
 import { useEffect, useRef, useState } from "react";
-import cssLogo from "../Assests/css.png";
-import htmlLogo from "../Assests/html.png";
-import javascriptLogo from "../Assests/js.png";
-import mongoDbLogo from "../Assests/mongo-db.png";
-import nodeLogo from "../Assests/node.png";
-import reactLogo from "../Assests/react.png";
-import tailwindLogo from "../Assests/tailwind.png";
+import cssLogo from "../assests/css.png";
+import htmlLogo from "../assests/html.png";
+import javascriptLogo from "../assests/js.png";
+import mongoDbLogo from "../assests/mongo-db.png";
+import nodeLogo from "../assests/node.png";
+import reactLogo from "../assests/react.png";
+import tailwindLogo from "../assests/tailwind.png";
 
 const SKILLS = [
   {
