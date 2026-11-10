@@ -1,15 +1,15 @@
 import { useEffect, useRef, useState } from "react";
-import bootstrapLogo from "../Assests/bootstrap.png";
-import cssLogo from "../Assests/css.png";
-import githubLogo from "../Assests/github.png";
-import htmlLogo from "../Assests/html.png";
-import javascriptLogo from "../Assests/js.png";
+import bootstrapLogo from "../assests/bootstrap.png";
+import cssLogo from "../assests/css.png";
+import githubLogo from "../assests/github.png";
+import htmlLogo from "../assests/html.png";
+import javascriptLogo from "../assests/js.png";
 import heroPortrait from "../assests/akash-img.png";
 import mongoDbLogo from "../assests/mongo-db.png";
-import nodeLogo from "../Assests/node.png";
-import reactLogo from "../Assests/react.png";
-import sqlLogo from "../Assests/sql.png";
-import tailwindLogo from "../Assests/tailwind.png";
+import nodeLogo from "../assests/node.png";
+import reactLogo from "../assests/react.png";
+import sqlLogo from "../assests/sql.png";
+import tailwindLogo from "../assests/tailwind.png";
 
 const HERO_ROLES = ["Web Developer", "Full Stack Developer"];
 const TYPING_SPEED_MS = 120;
